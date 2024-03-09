@@ -4,7 +4,8 @@
 [Click here to view the dashboard](https://public.tableau.com/views/Pizza-Sales-Report/HOME?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <br>
 
-![Dashboard Pizza](https://github.com/RajDev12/Pizza-Sales-Dashboard/assets/122223306/ce384f31-f80b-48d0-a3e9-840dbcd3fd58)
+![Pizza Sales Dashboard](https://github.com/RajDev12/Pizza-Sales-Dashboard/assets/122223306/218f8d85-27cd-43e6-ba02-bbab908f4096)
+
 
 
 ## Problem Statement
