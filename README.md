@@ -1,7 +1,11 @@
-# Pizza Sales Analysis README
+# Pizza Sales Analysis 
 
 ## Dashboard Link
 [Click here to view the dashboard](https://public.tableau.com/views/Pizza-Sales-Report/HOME?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<br>
+
+![Dashboard Pizza](https://github.com/RajDev12/Pizza-Sales-Dashboard/assets/122223306/ce384f31-f80b-48d0-a3e9-840dbcd3fd58)
+
 
 ## Problem Statement
 The objective of this project is to analyze the sales data of a pizza business to derive insights that can help improve operational efficiency, identify trends, and make informed business decisions.
