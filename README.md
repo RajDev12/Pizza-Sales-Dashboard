@@ -1,7 +1,7 @@
 # Pizza Sales Analysis 
 
 ## Dashboard Link
-[Click here to view the dashboard](https://public.tableau.com/views/Pizza-Sales-Report/HOME?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Click here to view the dashboard on TableauPublic](https://public.tableau.com/views/Pizza-Sales-Report/HOME?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <br>
 
 ![Pizza Sales Dashboard](https://github.com/RajDev12/Pizza-Sales-Dashboard/assets/122223306/218f8d85-27cd-43e6-ba02-bbab908f4096)
